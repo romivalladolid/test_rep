@@ -1,3 +1,3 @@
 <?php
-echo "Test repo for internal use";
+echo "Test repo for internal use OK";
 ?>
